@@ -1,0 +1,12 @@
+.marginTop10 {
+    margin-top: 10px;
+}
+.absentColor {
+    font-size: 12px;
+    color: #ff0000;
+}
+.notificationCount {
+    top: 15px !important;
+    position: relative;
+    right: 10px;
+}

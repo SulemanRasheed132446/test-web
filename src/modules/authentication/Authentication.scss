@@ -1,0 +1,42 @@
+.MuiButton-root {
+  text-transform: initial !important;
+}
+
+.whitecolor {
+  color:#ffffff;
+  text-transform: initial;
+}
+.passwordopen {
+  float: right;
+    bottom: 30px;
+    position: relative;
+    margin-right: 10px;
+    color: #ffffff;
+}
+a:hover {
+	text-decoration: none;
+  color: #333333;
+}
+.wrap-login100 textarea:focus, .wrap-login100 input:focus {
+  border-color: transparent !important;
+}
+
+.wrap-login100 input:focus::-webkit-input-placeholder { color:transparent; }
+.wrap-login100 input:focus:-moz-placeholder { color:transparent; }
+.wrap-login100 input:focus::-moz-placeholder { color:transparent; }
+.wrap-login100 input:focus:-ms-input-placeholder { color:transparent; }
+
+.wrap-login100 textarea:focus::-webkit-input-placeholder { color:transparent; }
+.wrap-login100 textarea:focus:-moz-placeholder { color:transparent; }
+.wrap-login100 textarea:focus::-moz-placeholder { color:transparent; }
+.wrap-login100 textarea:focus:-ms-input-placeholder { color:transparent; }
+
+.wrap-login100 input::-webkit-input-placeholder { color:#ffffff;}
+.wrap-login100 input:-moz-placeholder { color: #ffffff;}
+.wrap-login100 input::-moz-placeholder { color:#ffffff;}
+.wrap-login100 input:-ms-input-placeholder { color:#ffffff;}
+
+.wrap-login100 textarea::-webkit-input-placeholder { color:#ffffff;}
+.wrap-login100 textarea:-moz-placeholder { color:#ffffff;}
+.wrap-login100 textarea::-moz-placeholder { color:#ffffff;}
+.wrap-login100 textarea:-ms-input-placeholder { color:#ffffff;}
